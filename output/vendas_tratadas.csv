@@ -1,0 +1,5 @@
+id_venda,cliente,produto,quantidade,preco_unitario,data_venda,valor_total
+1,João Silva, Camiseta,2,50,2025-06-10,100
+2,Maria Souza, Calça Jeans,1,120,2025-06-11,120
+3,João Silva,Tênis,1,200,2025-06-12,200
+4,Pedro Lima, Camiseta,3,50,2025-06-12,150
